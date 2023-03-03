@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.products.App",
+            "projectName": "product_iva_poo_24b85dee"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "product_iva_poo_24b85dee"
+        },
+        {
+            "type": "java",
+            "name": "ctrlRegla02",
+            "request": "launch",
+            "mainClass": "ctrlRegla02",
+            "projectName": "product_iva_poo_24b85dee"
+        }
+    ]
+}

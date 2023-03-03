@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "nombre": "Margarina Mavesa",
+      "presentacion": "1Kg"
+    },
+    {
+      "id": 2,
+      "nombre": "Margarina Mavesa",
+      "presentacion": "500gr"
+    },
+    {
+      "id": 3,
+      "nombre": "Margarina Mavesa Ligera",
+      "presentacion": "1Kg"
+    },
+    {
+      "id": 4,
+      "nombre": "Margarina Mavesa Ligera",
+      "presentacion": "500gr"
+    },
+    {
+      "id": 5,
+      "nombre": "Margarina Mavesa Dorada",
+      "presentacion": "500gr"
+    }
+]
